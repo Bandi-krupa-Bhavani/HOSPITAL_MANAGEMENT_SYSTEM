@@ -26,6 +26,9 @@ A web-based Hospital Management System built using HTML, CSS, JavaScript, and An
 - `admin.html` – Admin login and patient management dashboard
   
 - `contact.html` – Contact information
+# Screenshots
+![Screenshot 2025-05-30 094626](https://github.com/user-attachments/assets/68d01914-c46e-4299-8d5c-7e62b759f48b)
+
 # Technologies Used
 - HTML5
   
